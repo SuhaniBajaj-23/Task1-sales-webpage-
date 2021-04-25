@@ -1,3 +1,3 @@
 # Task1-sales-webpage-
-##Deployed link
+Deployed link
 https://sales-webpage.web.app/
